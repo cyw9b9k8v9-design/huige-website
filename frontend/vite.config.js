@@ -4,11 +4,11 @@ import vue from '@vitejs/plugin-vue'
 export default defineConfig({
   plugins: [vue()],
   build: {
-    assetsInlineLimit: 0,
     rollupOptions: {
-      external: [
-        /\.mp4$/
-      ]
-    }
-  }
+      external: []
+    },
+    assetsInlineLimit: 0,
+    copyPublicDir: false
+  },
+  publicDir: false
 })
