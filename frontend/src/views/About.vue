@@ -63,7 +63,7 @@
         <p class="video-sub">用AI守护校园心理健康</p>
         <div class="video-wrapper">
           <video controls preload="metadata" poster="">
-            <source src="@/assets/introduction.mp4" type="video/mp4" />
+            <!--<source src="@/assets/introduction.mp4" type="video/mp4" />-->
             您的浏览器不支持视频播放。
           </video>
         </div>
@@ -112,7 +112,7 @@
         <div class="robot-grid">
           <div class="robot-card">
             <video controls preload="metadata" poster="">
-              <source src="@/assets/tata.mp4" type="video/mp4" />
+             <!-- <source src="@/assets/tata.mp4" type="video/mp4" />-->
               您的浏览器不支持视频播放。
             </video>
             <h3>皮塔 PITA</h3>
@@ -120,7 +120,7 @@
           </div>
           <div class="robot-card">
             <video controls preload="metadata" poster="">
-              <source src="@/assets/kbao.mp4" type="video/mp4" />
+              <!--<source src="@/assets/kbao.mp4" type="video/mp4" />-->
               您的浏览器不支持视频播放。
             </video>
             <h3>K宝</h3>
@@ -128,7 +128,7 @@
           </div>
           <div class="robot-card">
             <video controls preload="metadata" poster="">
-              <source src="@/assets/karuru.mp4" type="video/mp4" />
+              <!--<source src="@/assets/karuru.mp4" type="video/mp4" />-->
               您的浏览器不支持视频播放。
             </video>
             <h3>卡露 KALU</h3>
